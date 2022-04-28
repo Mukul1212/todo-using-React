@@ -10,6 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
+    "react-error-overlay": "^6.0.9",
     "typescript": "3.3.3"
   },
   "scripts": {
