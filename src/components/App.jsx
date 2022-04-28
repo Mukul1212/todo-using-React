@@ -18,6 +18,7 @@ function add(){
      ...preValue, inputText
    ]
 })
+// setItem("")
 }
 return (
     <div className="container">
